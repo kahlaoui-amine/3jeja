@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">3jeeja</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Register_Now"> <u>Register Now!</u>.</string>
+    <string name="Go_Back"> <u>Go Back !</u>.</string>
+
+</resources>
